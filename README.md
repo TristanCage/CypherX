@@ -12,27 +12,6 @@ Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deploym
 
 ---
 
-# 📊 Repository Stats
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/TristanCage/CypherX?style=for-the-badge&color=yellow"/>
-<img src="https://img.shields.io/github/forks/TristanCage/CypherX?style=for-the-badge&color=orange"/>
-<img src="https://img.shields.io/github/watchers/TristanCage/CypherX?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/license/TristanCage/CypherX?style=for-the-badge&color=green"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TristanCage&style=for-the-badge&color=brightgreen"/>
-</p>
-
----
-
 # 🍴 Fork Repository
 
 <p align="center">
@@ -61,14 +40,6 @@ Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deploym
 <img src="https://img.shields.io/badge/PAIR%203-ffb300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://pair4.cypherxbot.space/">
-<img src="https://img.shields.io/badge/PAIR%204-00d4ff?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://pair5.cypherxbot.space/">
-<img src="https://img.shields.io/badge/PAIR%205-00ff88?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -87,14 +58,6 @@ Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deploym
 
 <a href="https://pair3.cypherxbot.space/scan">
 <img src="https://img.shields.io/badge/SCAN%203-ffb300?style=for-the-badge&logo=qrcode"/>
-</a>
-
-<a href="https://pair4.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%204-00d4ff?style=for-the-badge&logo=qrcode"/>
-</a>
-
-<a href="https://pair5.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%205-00ff88?style=for-the-badge&logo=qrcode"/>
 </a>
 
 </p>
@@ -129,8 +92,31 @@ https://youtube.com/shorts/oi1Er4M2gbY
 ### Deploy on Pterodactyl Panel  
 https://youtube.com/shorts/Ds-hn6jYij8
 
+### Deploy using Web Dashboard  
+https://www.youtube.com/watch?v=ynlDcv-MBFc
+
 ### Deploy on CypherX Platform  
 https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
+
+---
+
+# 🟢 Brevo Host
+
+<p align="center">
+
+<a href="https://dash.brevo.host/register">
+<img src="https://img.shields.io/badge/BREVO%20HOST-2e7d32?style=for-the-badge&logo=server&logoColor=white"/>
+</a>
+
+</p>
+
+### Requirements
+
+• Session ID  
+• Bot Name  
+• Bot Repository Link or Bot File  
+• 🆓 **Free Servers**  
+• Minimum **0.5$ / 50 Credits**
 
 ---
 
