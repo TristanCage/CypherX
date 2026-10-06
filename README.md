@@ -164,7 +164,7 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 # 👨‍💻 Developer
 
 <p align="center">
-<img src="https://github.com/TristanCage.png" width="120"/>
+<img src="https://avatars.githubusercontent.com/u/236496610?s=240&v=7" width="120"/>
 </p>
 
 <p align="center">
