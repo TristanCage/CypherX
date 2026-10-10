@@ -1,6 +1,6 @@
 {
   "name": "CypherX",
-  "version": "1.8.6",
+  "version": "1.8.7",
   "description": "The best Whatsapp bot",
   "main": "cypher.js",
   "engines": {
@@ -33,7 +33,6 @@
     "archiver": "^8.0.0",
     "awesome-phonenumber": "^7.4.0",
     "axios": "^1.10.0",
-    "better-sqlite3": "^12.2.0",
     "chalk": "^4.1.2",
     "check-disk-space": "^3.3.1",
     "cheerio": "^1.1.0",
@@ -66,7 +65,7 @@
     "pg": "^8.14.1",
     "pino": "^8.14.1",
     "sequelize": "^6.37.5",
-    "sqlite3": "^5.1.7",
+    "sql.js": "^1.14.2",
     "steno": "^1.0.0",
     "stream-to-buffer": "latest",
     "systeminformation": "^5.27.7",
