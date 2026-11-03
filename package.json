@@ -1,6 +1,6 @@
 {
   "name": "CypherX",
-  "version": "1.8.9",
+  "version": "1.9.0",
   "description": "The best Whatsapp bot",
   "main": "cypher.js",
   "engines": {
@@ -16,7 +16,11 @@
     "dev": "nodemon cypher.js",
     "stop": "pkill -f node",
     "restart": "pkill -f node && npm start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "audit": "node scripts/audit-plugins.js",
+    "test:media": "node scripts/test-media.js",
+    "test:lidmap": "node scripts/test-lidmap.js",
+    "test:dashboard": "node scripts/test-dashboard.js",
+    "test": "echo \"no tests\""
   },
   "author": "Tylor",
   "allowScripts": {
