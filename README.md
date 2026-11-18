@@ -1,9 +1,13 @@
 # CYPHER-X WhatsApp Bot
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CYPHER+X+BOT;WhatsApp+Automation+System;787%2B+Commands;Easy+Deployment"/>
+</p>
+
 Professional WhatsApp automation with 787+ commands, on-demand pairing, and one-click deployment.
 
 <p align="center">
-<img src="https://files.brevo.host/view/gv2s22r1j3.png" width="350"/>
+<img src="https://files.brevo.host/f/gv2s22r1j3.png" width="350"/>
 </p>
 
 - Stars: [TristanCage/CypherX](../../stargazers) · Forks: [TristanCage/CypherX](../../network/members)
