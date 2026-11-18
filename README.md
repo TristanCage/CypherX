@@ -1,178 +1,88 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CYPHER+X+BOT;WhatsApp+Automation+System;Multi+Pair+Servers;Easy+Deployment"/>
-</h1>
+# CYPHER-X WhatsApp Bot
+
+Professional WhatsApp automation with 787+ commands, on-demand pairing, and one-click deployment.
 
 <p align="center">
-<img src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg" width="350"/>
+<img src="https://files.brevo.host/view/gv2s22r1j3.png" width="350"/>
 </p>
 
-<p align="center">
-Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deployment
-</p>
+- Stars: [TristanCage/CypherX](../../stargazers) · Forks: [TristanCage/CypherX](../../network/members)
+- License: MIT · Maintainer: [TristanCage](https://github.com/TristanCage)
+
+## Quick start
+
+| Step | Where |
+| ---- | ----- |
+| Pair a device | [cypherx.site](https://cypherx.site) — visit cypherx.site to continue |
+| Pairing direct link | [pair.cypherx.site](https://pair.cypherx.site) |
+| Download the latest release | [cypherx.site/download](https://cypherx.site/download) |
+| Install script (VPS) | [cypherx.site/install](https://cypherx.site/install) |
+| Source code | [TristanCage/CypherX](https://github.com/TristanCage/CypherX) |
+| Releases | [All releases](https://github.com/TristanCage/CypherX/releases) |
+| Support group | [t.me/cypherx_support](https://t.me/cypherx_support) |
+
+## Latest release — v1.9.1
+
+Update from inside the bot with any of:
+
+```
+.update
+.restart
+```
+
+Or deploy a fresh copy (see [Deploy](#deploy) below). Full changelog lives on the
+[releases page](https://github.com/TristanCage/CypherX/releases).
+
+Highlights:
+
+- Usernames (`.setusername`, `.myusername`, `.delusername`, `.checkusername`)
+- Native group and channel status (`.togroupstatus`, `.tochannelstatus`)
+- Scheduled messages (`.schedulemsg`, `.schedules`, `.unschedule`)
+- vCards and reports (`.report`, `.reportuser`, `.reportgroup`, `.reportcontact`, `.reportblock`)
+- Sticker packs (`.stickerpack`)
+- Antiban protection and presence tracker (`.antiban`, `.groupguard`, `.presence`)
+
+## Pairing
+
+To pair your device, **visit [cypherx.site](https://cypherx.site) to continue**.
+
+- QR or 8-digit pairing code, both on the same page.
+- Sessions expire automatically; nothing is stored.
+
+## Download
+
+- Latest build: [cypherx.site/download](https://cypherx.site/download)
+- The server always serves a flat ZIP (no nested folders to rearrange).
+- Past builds and changelog: [releases page](https://github.com/TristanCage/CypherX/releases)
+
+## <a id="deploy"></a>Deploy
+
+| Platform | How |
+| -------- | --- |
+| Heroku | [Deploy with template](https://dashboard.heroku.com/new?template=https://github.com/TristanCage/CypherX) |
+| Replit | [Run on Replit](https://repl.it/github/TristanCage/CypherX) |
+| Railway | Coming soon |
+| Martian | [platform.cypherx.store](https://platform.cypherx.store/) |
+| JuneX | [host.junex.space/templates/cypherx](https://host.junex.space/templates/cypherx) |
+| VPS / panel | [Install script](https://cypherx.site/install) — tab per platform (Windows, VPS, Termux, PM2, Panel) |
+
+## Requirements
+
+- Session ID (from the [pairing site](https://cypherx.site))
+- Bot name
+- Bot repository link or bot file
+- Minimum **30 Coins Balance**
+
+## Tutorials
+
+- Pairing tutorial: https://youtube.com/shorts/oi1Er4M2gbY
+- Deploy on Pterodactyl panel: https://youtube.com/shorts/Ds-hn6jYij8
+- Deploy on CypherX platform: https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
+
+## Developer
+
+[TristanCage](https://github.com/TristanCage) — CypherX developer.
 
 ---
 
-# 🍴 Fork Repository
-
-<p align="center">
-
-<a href="https://github.com/TristanCage/CypherX/fork">
-<img src="https://img.shields.io/badge/FORK%20REPOSITORY-gradient?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 🔑 Pairing Servers
-
-<p align="center">
-
-<a href="https://pair.cypherxbot.space/">
-<img src="https://img.shields.io/badge/PAIR%201-ff0050?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://pair2.cypherxbot.space/">
-<img src="https://img.shields.io/badge/PAIR%202-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://pair3.cypherxbot.space/">
-<img src="https://img.shields.io/badge/PAIR%203-ffb300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📷 QR Scan Servers
-
-<p align="center">
-
-<a href="https://pair.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%201-ff0050?style=for-the-badge&logo=qrcode"/>
-</a>
-
-<a href="https://pair2.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%202-ff6a00?style=for-the-badge&logo=qrcode"/>
-</a>
-
-<a href="https://pair3.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%203-ffb300?style=for-the-badge&logo=qrcode"/>
-</a>
-
-</p>
-
----
-
-# 📥 Download Bot Files
-
-<p align="center">
-
-<a href="https://pair.cypherxbot.space/download">
-<img src="https://img.shields.io/badge/DOWNLOAD%20BOT-00ff88?style=for-the-badge&logo=download"/>
-</a>
-
-</p>
-
-⚠️ **Note**
-
-This download provides a **direct ZIP file**.
-
-GitHub downloads usually place the files inside a folder which the tutorial video does not explain how to rearrange.
-
-Using the ZIP avoids this issue.
-
----
-
-# 🎥 Tutorials
-
-### Pairing Tutorial  
-https://youtube.com/shorts/oi1Er4M2gbY
-
-### Deploy on Pterodactyl Panel  
-https://youtube.com/shorts/Ds-hn6jYij8
-
-### Deploy using Web Dashboard  
-https://www.youtube.com/watch?v=ynlDcv-MBFc
-
-### Deploy on CypherX Platform  
-https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
-
----
-
-# 🟢 Brevo Host
-
-<p align="center">
-
-<a href="https://dash.brevo.host/register">
-<img src="https://img.shields.io/badge/BREVO%20HOST-2e7d32?style=for-the-badge&logo=server&logoColor=white"/>
-</a>
-
-</p>
-
-### Requirements
-
-• Session ID  
-• Bot Name  
-• Bot Repository Link or Bot File  
-• 🆓 **Free Servers**  
-• Minimum **0.5$ / 50 Credits**
-
----
-
-# 🚀 CypherX Platform
-
-<p align="center">
-
-<a href="https://platform.cypherx.space">
-<img src="https://img.shields.io/badge/CYPHERX%20PLATFORM-0078ff?style=for-the-badge&logo=server"/>
-</a>
-
-</p>
-
----
-
-# 📋 Requirements
-
-• Session ID  
-• Bot Name  
-• Bot Repository Link or Bot File  
-• Minimum **30 Coins Balance**
-
----
-
-# ☁️ Deploy Options
-
-<p align="center">
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TristanCage/CypherX">
-<img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
-</a>
-
-<a href="https://railway.app/new">
-<img src="https://img.shields.io/badge/RAILWAY-000000?style=for-the-badge&logo=railway"/>
-</a>
-
-<a href="https://render.com">
-<img src="https://img.shields.io/badge/RENDER-0099ff?style=for-the-badge&logo=render"/>
-</a>
-
-</p>
-
----
-
-# 👨‍💻 Developer
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/236496610?s=240&v=7" width="120"/>
-</p>
-
-<p align="center">
-CypherX Developer
-</p>
-
----
-
-<p align="center">
-⭐ If you like this project, please star the repository.
-</p>
+If you like this project, please star the repository.
