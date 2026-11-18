@@ -1,6 +1,6 @@
 {
   "name": "CypherX",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "The best Whatsapp bot",
   "main": "cypher.js",
   "engines": {
@@ -20,6 +20,7 @@
     "test:media": "node scripts/test-media.js",
     "test:lidmap": "node scripts/test-lidmap.js",
     "test:dashboard": "node scripts/test-dashboard.js",
+    "smoke": "node scripts/regression.js",
     "test": "echo \"no tests\""
   },
   "author": "Tylor",
@@ -32,7 +33,7 @@
   },
   "dependencies": {
     "@google/genai": "^1.25.0",
-    "@whiskeysockets/baileys": "npm:@tristancage/baileys@6.7.10",
+    "@whiskeysockets/baileys": "npm:@tristancage/baileys@6.8.0",
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
     "archiver": "^8.0.0",
@@ -66,6 +67,7 @@
     "pg": "^8.14.1",
     "pino": "^8.14.1",
     "sequelize": "^6.37.5",
+    "sharp": "^0.35.4",
     "sql.js": "^1.14.2",
     "systeminformation": "^5.27.7",
     "yt-search": "^2.12.1",
