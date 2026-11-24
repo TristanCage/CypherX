@@ -33,10 +33,12 @@
   },
   "dependencies": {
     "@google/genai": "^1.25.0",
-    "@whiskeysockets/baileys": "npm:@tristancage/baileys@6.8.0",
+    "@whiskeysockets/baileys": "npm:@tristancage/baileys@6.8.1",
+    "music-metadata": "11.12.1",
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
     "archiver": "^8.0.0",
+    "audio-decode": "^2.2.3",
     "awesome-phonenumber": "^7.4.0",
     "axios": "^1.10.0",
     "chalk": "^4.1.2",
